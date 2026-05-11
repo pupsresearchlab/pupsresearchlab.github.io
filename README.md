@@ -1,11 +1,11 @@
 # PUPS research lab webpage
-This is the main webpage for all things related to PUPS. Inclduing but not limited to:
-    -About the lab
-    -People
-    -News
-    -Open positions
-    -projects
-    -Publications
+### This is the main webpage for all things related to PUPS. Inclduing but not limited to:
+    - About the lab
+    - People
+    - News
+    - Open positions
+    - Projects
+    - Publications
 
 ## General notes for future maintainers
     -
