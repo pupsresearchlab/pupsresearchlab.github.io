@@ -1,5 +1,5 @@
 # PUPS research lab webpage
-### This is the main webpage for all things related to PUPS. Inclduing but not limited to:
+## This is the main webpage for all things related to PUPS. Inclduing but not limited to:
     - About the lab
     - People
     - News
@@ -7,8 +7,13 @@
     - Projects
     - Publications
 
-### General notes for future maintainers
-    -
+## General notes for future maintainers
+## Important Files and Directories
+    - '''_pages''' has all the pages for the site. 
+        - To add a new page add a markdown file and put the appropriate front matter.
+
+    - '''_data/navigation.yml''' is the file that organizes the website.
+        - To make sure a new page is reachable add it to this file.
 
 
 
