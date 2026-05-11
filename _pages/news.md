@@ -12,7 +12,7 @@ author_profile: true
 
 - 🏆 May 2025, PUPS Student Afari Darfoor won first place in the research poster competition at the Responsible AI track of the Canadian AI Conference!!
 
-- 🏆 March 2025, Bailey Kacsmar (PI) recognized with [2025 U of A Award](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/navigating-research-process/mentor-award.html) for Outstanding Mentorship in Undergraduate Research & Creative Activities
+- 🏆 March 2025, Bailey Kacsmar (PI) recognized with [2025 U of A Award](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/navigating-research-process/mentor-award.html) for Outstanding Mentorship in Undergraduate Research & Creative Activities!!
 
 - 🏆 January 2025, PUPS student Jialiang Yan recognized with [Honorable Mention](https://www.ualberta.ca/en/computing-science/news-and-events/news/2025/january/jialiang-yan-recognized-with-honorable-mention-for-the-2025-outstanding-undergraduate-researcher-award.html)  for the 2025 CRA Outstanding Undergraduate Researcher Award!!
 
