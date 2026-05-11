@@ -20,7 +20,7 @@ What is practical usable privacy and security? Well, breaking it down a bit, it 
 <!--
 <img src="/files/cycle.png" alt="Human Centered Cycle" width="700"> 
 </p>-->
-<br/><br/>
+<br/>
 
 <b>Practical privacy?</b>
 On one side of practicality, we need to ensure that technical guarantees are enforced and that they can be done with "reasonable" time and resources requirments. A practical privacy system must also have sufficient utility. For instance, if a "privately trained" machine learning model does not achieve a certain level of success (e.g., at classification or generation) it is not able to serve its purpose. 
