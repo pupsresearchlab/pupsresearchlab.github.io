@@ -66,5 +66,3 @@ Alireza Hodae, <i>Cryptography for Privacy</i>, (Visiting researcher Summer 2025
 
 
 [Farishta Kabir](https://farishta4898.github.io/), (RA 2024)
-
-
