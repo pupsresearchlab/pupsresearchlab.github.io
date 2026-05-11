@@ -7,7 +7,7 @@
     - Projects
     - Publications
 
-## General notes for future maintainers
+### General notes for future maintainers
     -
 
 
