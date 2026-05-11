@@ -9,11 +9,11 @@
 
 ## General notes for future maintainers
 ## Important Files and Directories
-    - `_pages` has all the pages for the site. 
-        - To add a new page add a markdown file and put the appropriate front matter.
+- `_pages` has all the pages for the site. 
+    - To add a new page add a markdown file and put the appropriate front matter.
 
-    - `_data/navigation.yml` is the file that organizes the website.
-        - To make sure a new page is reachable add it to this file.
+- `_data/navigation.yml` is the file that organizes the website.
+    - To make sure a new page is reachable add it to this file.
 
 
 
