@@ -1,4 +1,4 @@
-#PUPS research lab webpage
+# PUPS research lab webpage
     - This is the main webpage for all things related to PUPS
 
 
