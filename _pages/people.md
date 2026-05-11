@@ -1,4 +1,14 @@
-<h2>People in PUPS</h2>
+---
+title: ""
+permalink: /people
+author_profile: true
+---
+
+<h1>People in PUPS</h1>
+
+<h3>Prinicipal Investigator</h3>
+
+[Bailey Kacsmar](https://bkacsmar.github.io//) <i>Human-centered technical privacy solutions</i>
 
 <h3>PhD Students</h3>
 
@@ -11,7 +21,7 @@
 
 <a href="https://mbakija73.github.io/mbakija.github.io/">Miriam Bakija</a> 
 
-Gwen Delos Santos, co-supervised with Michael Bowling
+Gwen Delos Santos <i>Privacy in Reinforcement learning</i>, co-supervised with Michael Bowling
 
 <a href="https://samk6.github.io/">Samuel Feldman</a>, <i>Applied Cryptography</i>
 
