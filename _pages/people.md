@@ -19,11 +19,11 @@ author_profile: true
 
 <h3>Masters Students</h3>
 
-<a href="https://mbakija73.github.io/mbakija.github.io/">Miriam Bakija</a> 
+[Miriam Bakija](https://mbakija73.github.io/mbakija.github.io/)
 
 Gwen Delos Santos <i>Privacy in Reinforcement learning</i>, co-supervised with Michael Bowling
 
-<a href="https://samk6.github.io/">Samuel Feldman</a>, <i>Applied Cryptography</i>
+[Samuel Feldman](https://samk6.github.io/), <i>Cryptography and its applications</i>
 
 [Afrida Hossain](https://afrida-hossain.github.io/website/), <i>Software engineering in privacy and AI</i> 
 
@@ -46,7 +46,7 @@ Fairness, and Robustness in High-Stakes Automatic Decision Systems</i>, (MSc. Sp
 
 Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer and Fall 2025)
 
-[Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Enhanced Upper-Limb Bionic Devices</i>, (MSc. Fall '25, <a href="https://ualberta.scholaris.ca/items/8d3208eb-3840-4c8e-9fae-d3d149a78abe">Thesis</a>)
+[Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Enhanced Upper-Limb Bionic Devices</i>, (MSc. Fall '25, [Thesis](https://ualberta.scholaris.ca/items/8d3208eb-3840-4c8e-9fae-d3d149a78abe))
 
 Gwen Delos Santos, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer 2025, next stage: University of Alberta MSc Student)
 
@@ -62,7 +62,7 @@ Lina Saha, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer 2025)
 
 Alireza Hodae, <i>Cryptography for Privacy</i>, (Visiting researcher Summer 2025)
 
-<a href="https://jialiangyan.vercel.app/">Jialiang Yan</a>, <i>Privacy and Mobile Notices</i>, (UGRA 2024, next stage: George Washington University PhD Student)
+[Jialiang Yan](https://jialiangyan.vercel.app/), <i>Privacy and Mobile Notices</i>, (UGRA 2024, next stage: George Washington University PhD Student)
 
 
 [Farishta Kabir](https://farishta4898.github.io/), (RA 2024)
