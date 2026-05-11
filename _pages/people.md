@@ -27,11 +27,13 @@ Gwen Delos Santos <i>Privacy in Reinforcement learning</i>, co-supervised with M
 
 [Afrida Hossain](https://afrida-hossain.github.io/website/), <i>Software engineering in privacy and AI</i> 
 
-[Sara Jerin Prithila](https://jerinsync.github.io/) 
+[Sara Jerin Prithila](https://jerinsync.github.io/)
+
  
 <h3>Research Assistants</h3> 
 
 Sasha Dudiy, <i>Blackout Resistant Communications</i>, (NSERC USRA, Summer 2026)
+
 
 <!--<h3>Visiting Researchers</h3>-->
 
@@ -41,8 +43,7 @@ Sasha Dudiy, <i>Blackout Resistant Communications</i>, (NSERC USRA, Summer 2026)
 
 Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
 
-[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Contextualizing Trade-offs: The Interplay of Privacy,
-Fairness, and Robustness in High-Stakes Automatic Decision Systems</i>, (MSc. Spring 2026)
+[Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Contextualizing Trade-offs: The Interplay of Privacy, Fairness, and Robustness in High-Stakes Automatic Decision Systems</i>, (MSc. Spring 2026)
 
 Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer and Fall 2025)
 
@@ -63,6 +64,5 @@ Lina Saha, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer 2025)
 Alireza Hodae, <i>Cryptography for Privacy</i>, (Visiting researcher Summer 2025)
 
 [Jialiang Yan](https://jialiangyan.vercel.app/), <i>Privacy and Mobile Notices</i>, (UGRA 2024, next stage: George Washington University PhD Student)
-
 
 [Farishta Kabir](https://farishta4898.github.io/), (RA 2024)
