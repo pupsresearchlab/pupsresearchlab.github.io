@@ -21,7 +21,7 @@ author_profile: true
 
 [Miriam Bakija](https://mbakija73.github.io/mbakija.github.io/)
 
-Gwen Delos Santos <i>Privacy in Reinforcement learning</i>, co-supervised with Michael Bowling
+[Gwen Delos Santos](https://gwen-dls.github.io/) <i>Privacy in Reinforcement learning</i>, co-supervised with Michael Bowling
 
 [Samuel Feldman](https://samk6.github.io/), <i>Cryptography and its applications</i>
 
