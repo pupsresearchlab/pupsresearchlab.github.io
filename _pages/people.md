@@ -47,7 +47,7 @@ Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
 
 Castor Shem, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer and Fall 2025)
 
-[Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Enhanced Upper-Limb Bionic Devices</i>, (MSc. Fall '25, [Thesis](https://ualberta.scholaris.ca/items/8d3208eb-3840-4c8e-9fae-d3d149a78abe))
+[Afari Darfoor](http://kwesidarfoor.com/about), <i>Identifying Privacy Threat Vectors in AI-Enhanced Upper-Limb Bionic Devices</i>, (MSc. Fall 2025, [Thesis](https://ualberta.scholaris.ca/items/8d3208eb-3840-4c8e-9fae-d3d149a78abe))
 
 Gwen Delos Santos, <i>Privacy Problems in Theory versus Media</i>, (UGRA Summer 2025, next stage: University of Alberta MSc Student)
 
