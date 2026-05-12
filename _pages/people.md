@@ -6,18 +6,18 @@ author_profile: true
 
 <h1>People in PUPS</h1>
 
-<h3>Prinicipal Investigator</h3>
+<h2>Prinicipal Investigator</h2>
 
 [Bailey Kacsmar](https://bkacsmar.github.io//) <i>Human-centered technical privacy solutions</i>
 
-<h3>PhD Students</h3>
+<h2>PhD Students</h2>
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Privacy in practice </i>
 
 [Afari Darfoor](http://kwesidarfoor.com/about), <i>Privacy and Bionic Limbs</i>, co-supervised with Patrick Pilarski
 
 
-<h3>Masters Students</h3>
+<h2>Masters Students</h2>
 
 [Miriam Bakija](https://mbakija73.github.io/mbakija.github.io/)
 
@@ -30,16 +30,16 @@ author_profile: true
 [Sara Jerin Prithila](https://jerinsync.github.io/)
 
  
-<h3>Research Assistants</h3> 
+<h2>Research Assistants</h2> 
 
 Sasha Dudiy, <i>Blackout Resistant Communications</i>, (NSERC USRA, Summer 2026)
 
 
-<!--<h3>Visiting Researchers</h3>-->
+<!--<h2>Visiting Researchers</h2>-->
 
 
 
-<h3>Alumni</h3>
+<h2>Alumni</h2>
 
 Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
 
