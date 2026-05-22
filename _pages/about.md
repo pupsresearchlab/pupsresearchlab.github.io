@@ -10,7 +10,7 @@ redirect_from:
 
 
 <h1>PUPS: Practical Usable Privacy and Security Research Lab</h1>
-PUPS is a group of researchers at the University of Alberta organized by Bailey Kacsmar. The work in this group intersects with digital privacy, security, machine larning, and HCI.
+PUPS is a group of researchers at the University of Alberta organized by Bailey Kacsmar. The work in this group intersects with digital privacy, security, machine learning, and HCI.
 
 Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the people who can be effected by whether their data is used in such systems.
 
@@ -23,7 +23,7 @@ What is practical usable privacy and security? Well, breaking it down a bit, it 
 
 
 
-<b>Practical privacy?</b> On one side of practicality, we need to ensure that technical guarantees are enforced and that they can be done with "reasonable" time and resources requirments. A practical privacy system must also have sufficient utility. For instance, if a "privately trained" machine learning model does not achieve a certain level of success (e.g., at classification or generation) it is not able to serve its purpose. 
+<b>Practical privacy?</b> On one side of practicality, we need to ensure that technical guarantees are enforced and that they can be done with "reasonable" time and resources requirements. A practical privacy system must also have sufficient utility. For instance, if a "privately trained" machine learning model does not achieve a certain level of success (e.g., at classification or generation) it is not able to serve its purpose. 
 
 
 <b>Usable privacy?</b> The usability of a privacy system has several facets to it. It includes aspects of what users actually do and what do they want to do. However, it also includes the accessibility of the system. Privacy tools may require additional effort (from the various participating agents) over non-privacy preserving tools and therefore require clear motivation before entities, whether individuals or companies, will choose to use them.
