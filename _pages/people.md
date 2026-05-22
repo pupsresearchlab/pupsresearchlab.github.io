@@ -14,7 +14,7 @@ author_profile: true
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Privacy in practice </i>
 
-[Afari Darfoor](http://kwesidarfoor.com/about), <i>Privacy and Bionic Limbs</i>, co-supervised with Patrick Pilarski
+[Afari Darfoor](http://kwesidarfoor.com/), <i>Privacy and Bionic Limbs</i>, co-supervised with Patrick Pilarski
 
 
 <h2>Masters Students</h2>
