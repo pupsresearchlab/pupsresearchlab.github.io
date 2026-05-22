@@ -6,4 +6,5 @@ main:
     url: /people
   - title: "News"
     url: /news
-    
+  - title: "Publications"
+    url: /publications
