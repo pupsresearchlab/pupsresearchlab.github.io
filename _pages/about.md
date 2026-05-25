@@ -8,19 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-
 <h1>PUPS: Practical Usable Privacy and Security Research Lab</h1>
 PUPS is a group of researchers at the University of Alberta organized by Bailey Kacsmar. The work in this group intersects with digital privacy, security, machine learning, and HCI.
 
 Technical privacy systems define what is being protected, from who, and under what conditions this protection will hold. We focus on developing privacy enhancing systems using human-centered design. That is, when developing technical privacy protocols, we take a wider view of privacy. We aim to develop privacy enhancing technologies informed by the end privacy goals of the people who can be effected by whether their data is used in such systems.
 
+<h2>PUPS in the News</h2>
+
+<a href="https://betakit.com/the-internet-of-bodies-is-here-and-your-body-could-be-hacked/" target="_blank" class="archive__item" style="text-decoration: none;">
+  <div class="archive__item-teaser">
+    <img src="https://cdn.betakit.com/wp-content/uploads/2026/05/Cyberpunk_Panel_May20.jpg" alt="PUPS principal investigator Bailey Kacsmar and PhD student Afari Darfoor, sitting on a panel with collaborator Patrick Pilarski">
+  </div>
+  <div class="archive__item-body">
+    <h2 class="archive__item-title">The “Internet of Bodies” is here, and your body could be hacked | BetaKit</h2>
+    <p class="archive__item-excerpt">It’s not just cyberpunk sci-fi; online prostheses create new opportunities, but also risks.</p>
+  </div>
+</a>
  
 <h2>What is PUPS?</h2>
 What is practical usable privacy and security? Well, breaking it down a bit, it is made up of the following:
 <!--
 <img src="/files/cycle.png" alt="Human Centered Cycle" width="700"> 
 </p>-->
-
 
 
 <b>Practical privacy?</b> On one side of practicality, we need to ensure that technical guarantees are enforced and that they can be done with "reasonable" time and resources requirements. A practical privacy system must also have sufficient utility. For instance, if a "privately trained" machine learning model does not achieve a certain level of success (e.g., at classification or generation) it is not able to serve its purpose. 
