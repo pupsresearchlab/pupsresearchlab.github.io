@@ -16,15 +16,15 @@ Technical privacy systems define what is being protected, from who, and under wh
 <h2>PUPS in the News</h2>
 
 <div markdown="0">
-<a href="https://betakit.com/the-internet-of-bodies-is-here-and-your-body-could-be-hacked/" target="_blank" class="archive__item" style="text-decoration: none;">
-<div class="archive__item-teaser">
-<img src="https://cdn.betakit.com/wp-content/uploads/2026/05/Cyberpunk_Panel_May20.jpg" alt="PUPS principal investigator Bailey Kacsmar and PhD student Afari Darfoor, sitting on a panel with collaborator Patrick Pilarski">
-</div>
-<div class="archive__item-body">
-<h2 class="archive__item-title">The “Internet of Bodies” is here, and your body could be hacked | BetaKit</h2>
-<p class="archive__item-excerpt">It’s not just cyberpunk sci-fi; online prostheses create new opportunities, but also risks.</p>
-</div>
-</a>
+  <a href="https://betakit.com/the-internet-of-bodies-is-here-and-your-body-could-be-hacked/" target="_blank" class="archive__item" style="text-decoration: none;">
+    <div class="archive__item-teaser">
+      <img src="https://cdn.betakit.com/wp-content/uploads/2026/05/Cyberpunk_Panel_May20.jpg" alt="PUPS principal investigator Bailey Kacsmar and PhD student Afari Darfoor, sitting on a panel with collaborator Patrick Pilarski">
+    </div>
+    <div class="archive__item-body">
+      <h2 class="archive__item-title">The “Internet of Bodies” is here, and your body could be hacked | BetaKit</h2>
+      <p class="archive__item-excerpt">It’s not just cyberpunk sci-fi; online prostheses create new opportunities, but also risks.</p>
+    </div>
+  </a>
 </div>
  
 <h2>What is PUPS?</h2>
