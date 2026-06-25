@@ -19,7 +19,7 @@ author_profile: true
 
 <h2>Masters Students</h2>
 
-[Miriam Bakija](https://mbakija73.github.io/mbakija.github.io/)
+[Miriam Bakija](https://mbakija73.github.io/mbakija.github.io/) <i>Privacy in Biotechnology</i>
 
 [Gwen Delos Santos](https://gwen-dls.github.io/) <i>Privacy in Reinforcement learning</i>, co-supervised with Michael Bowling
 
