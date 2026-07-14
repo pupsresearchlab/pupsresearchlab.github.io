@@ -14,20 +14,20 @@ author_profile: true
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Privacy in practice </i>
 
-[Afari Darfoor](http://kwesidarfoor.com/), <i>Privacy and Bionic Limbs</i>, co-supervised with Patrick Pilarski
+[Afari Darfoor](http://kwesidarfoor.com/), <i>Privacy and bionic limbs</i>, co-supervised with Patrick Pilarski
 
 
 <h2>Masters Students</h2>
 
-[Miriam Bakija](https://mbakija73.github.io/mbakija.github.io/), <i>Privacy in Biotechnology</i>
+[Miriam Bakija](https://mbakija73.github.io/mbakija.github.io/), <i>Privacy in biotechnology</i>
 
-[Gwen Delos Santos](https://gwen-dls.github.io/), <i>Privacy in Reinforcement learning</i>, co-supervised with Michael Bowling
+[Gwen Delos Santos](https://gwen-dls.github.io/), <i>Privacy in reinforcement learning</i>, co-supervised with Michael Bowling
 
 [Samuel Feldman](https://samk6.github.io/), <i>Cryptography and its applications</i>
 
 [Afrida Hossain](https://afrida-hossain.github.io/website/), <i>Software engineering in privacy and AI</i> 
 
-[Sara Jerin Prithila](https://jerinsync.github.io/)
+[Sara Jerin Prithila](https://jerinsync.github.io/) <i>Privacy-preserving machine learning</i>
 
  
 <h2>Research Assistants</h2> 
