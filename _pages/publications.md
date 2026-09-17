@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Conference and Journal Publications</h2>
 
-<b>Rabeya Bosri</b>, Anna Lorimer, <b>Afrida Hossain</b>, Vasisht Duddu, <b>Bailey Kacsmar</b>. “People can change, and patterns can be broken”: Contextualizing Tradeoffs in Automated Decision-Making Systems. ACM Conference on Computer and Communications Security (CCS) 2026. , 2026. ([Preprint](https://arxiv.org/abs/2609.12288))
+<b>Rabeya Bosri</b>, Anna Lorimer, <b>Afrida Hossain</b>, Vasisht Duddu, <b>Bailey Kacsmar</b>. “People can change, and patterns can be broken”: Contextualizing Tradeoffs in Automated Decision-Making Systems. ACM Conference on Computer and Communications Security (CCS 2026). 2026. ([Preprint](https://arxiv.org/abs/2609.12288))
 
 <b>Miriam Bakija*</b>, <b>Bailey Kacsmar</b>, Irene Cheng. An Analysis of Post-Fire Active Reforestation using Sentinel-2. To appear at The International Geoscience and Remote Sensing Symposium (IGARSS 2026). 
 
