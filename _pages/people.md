@@ -29,9 +29,9 @@ author_profile: true
 
 
  
-<h2>Research Assistants</h2> 
+<!-- <h2>Research Assistants</h2>  -->
 
-Sasha Dudiy, <i>Blackout Resistant Communications</i>, (NSERC USRA, Summer 2026)
+
 
 
 <!--<h2>Visiting Researchers</h2>-->
@@ -40,7 +40,7 @@ Sasha Dudiy, <i>Blackout Resistant Communications</i>, (NSERC USRA, Summer 2026)
 
 <h2>Alumni</h2>
 
-Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026)
+Sasha Dudiy, <i>Blackout Resistant Communications</i>, (UGRA, Winter 2026, NSERC USRA Summer 2026)
 
 [Rabeya Bosri](https://rabeya-bosri.github.io/bosri/index.html), <i>Contextualizing Trade-offs: The Interplay of Privacy, Fairness, and Robustness in High-Stakes Automatic Decision Systems</i>, (MSc. Spring 2026)
 
