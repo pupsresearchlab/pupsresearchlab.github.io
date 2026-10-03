@@ -27,7 +27,6 @@ author_profile: true
 
 [Afrida Hossain](https://afrida-hossain.github.io/website/), <i>Software engineering in privacy and AI</i> 
 
-[Sara Jerin Prithila](https://jerinsync.github.io/), <i>Privacy-preserving machine learning</i>
 
  
 <h2>Research Assistants</h2> 
